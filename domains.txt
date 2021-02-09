@@ -21,3 +21,16 @@ storage.live.com
 syndication.twitter.com
 skydrivesync.policies.live.net
 fresnel.vimeocdn.com
+fp.msedge.net
+analytics.plex.tv
+browser.events.data.msn.com
+privatestats.whatsapp.net
+cdn.hbbtv.smartclip.net
+stat.adguard.com
+ichnaea.netflix.com
+clc.stackoverflow.com
+pxlctl.elpais.com
+alb.reddit.com
+vortex.data.microsoft.com
+widgets.sprinklecontent.com
+(\.|^)hotwords\.com$
