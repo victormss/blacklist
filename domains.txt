@@ -39,8 +39,7 @@ cdn1.affirm.com
 consent.cookiebot.com
 geller-pa.googleapis.com
 assets.adobedtm.com
-prisa-el-pais-prod.cdn.arcpublishing.com
-api-prisa-el-pais-prod.cdn.arcpublishing.com
+(\.|^)arcpublishing\.com$
 contributor.google.com
 hybrid-prisa.perso.aws.arc.pub
 targeting-eu.perso.aws.arc.pub
