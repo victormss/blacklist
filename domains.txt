@@ -33,4 +33,16 @@ pxlctl.elpais.com
 alb.reddit.com
 vortex.data.microsoft.com
 widgets.sprinklecontent.com
+aa.google.com
+snippets.cdn.mozilla.net
+cdn1.affirm.com
+consent.cookiebot.com
+geller-pa.googleapis.com
+assets.adobedtm.com
+prisa-el-pais-prod.cdn.arcpublishing.com
+api-prisa-el-pais-prod.cdn.arcpublishing.com
+contributor.google.com
+hybrid-prisa.perso.aws.arc.pub
+targeting-eu.perso.aws.arc.pub
+ep00.epimg.net
 (\.|^)hotwords\.com$
