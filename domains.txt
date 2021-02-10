@@ -76,3 +76,4 @@ consent.truste.com
 builds.cdn.getgo.com
 collector-hpn.ghostery.net
 edge.activity.windows.com
+z.cn
