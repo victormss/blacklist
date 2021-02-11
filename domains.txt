@@ -34,6 +34,7 @@ alb.reddit.com
 vortex.data.microsoft.com
 widgets.sprinklecontent.com
 aa.google.com
+sibboventures.mgr.consensu.org
 snippets.cdn.mozilla.net
 cdn1.affirm.com
 consent.cookiebot.com
@@ -70,7 +71,6 @@ log.core.cloud.vewd.com
 campaign.aliexpress.com
 us.ynuf.aliapp.org
 unagi.amazon.fr
-aax-eu.amazon.es
 as.ad4m.at
 consent.truste.com
 builds.cdn.getgo.com
@@ -83,3 +83,7 @@ stun.services.mozilla.com
 api.ipify.org
 ccpa.sp-prod.net
 cmpv2.networkworld.com
+cdn.cookielaw.org
+imasdk.googleapis.com
+sdk.inbenta.io
+eroski01.wt-eu02.net
