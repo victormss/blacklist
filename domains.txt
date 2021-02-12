@@ -19,7 +19,6 @@ kit.fontawesome.com
 ris.api.iris.microsoft.com
 storage.live.com
 syndication.twitter.com
-skydrivesync.policies.live.net
 fresnel.vimeocdn.com
 fp.msedge.net
 analytics.plex.tv
