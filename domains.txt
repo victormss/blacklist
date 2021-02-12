@@ -1,3 +1,4 @@
+(\.|^)slgnt\.eu\.cdn\.cloudflare\.net$
 activity.windows.com
 cs.dds.microsoft.com
 g.live.com
@@ -86,3 +87,4 @@ cdn.cookielaw.org
 imasdk.googleapis.com
 sdk.inbenta.io
 eroski01.wt-eu02.net
+account.atresmedia.com
