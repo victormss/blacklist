@@ -90,3 +90,8 @@ eroski01.wt-eu02.net
 account.atresmedia.com
 geo2.adobe.com
 btms.samsungsemi.com
+api.goaffpro.com
+buy-me-cdn.makeprosimp.com
+load.csell.co
+shy.elfsight.com
+ad-cache.tabarn.app
