@@ -132,3 +132,7 @@ xtrapath1.izatcloud.net
 xtrapath2.izatcloud.net
 xtrapath3.izatcloud.net
 connect.facebook.net
+boot.pbstck.com
+resources.xg4ken.com
+eldiario.stats.bitban.com
+redirector.gvt1.com
