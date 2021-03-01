@@ -129,9 +129,6 @@ status.geotrust.com
 cdn.tinypass.com
 events.gfe.nvidia.com
 gfe.nvidia.com
-xtrapath1.izatcloud.net
-xtrapath2.izatcloud.net
-xtrapath3.izatcloud.net
 connect.facebook.net
 boot.pbstck.com
 resources.xg4ken.com
