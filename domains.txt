@@ -190,3 +190,13 @@ irj.evolok.net
 ws.facil-iti.com
 geomobileservices-pa.googleapis.com
 tigger-citadel.touchtype-fluency.com
+ed5c4f08-dnsotls-ds.metric.gstatic.com
+push.prod.netflix.com
+app.miui.com
+au.ff.avast.sec.miui.com
+connect.rom.miui.com
+galleryapi.micloud.xiaomi.net
+assets.pinterest.com
+iss.shopimind.com
+sdk.nsureapi.com
+www.knotch-cdn.com
