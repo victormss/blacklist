@@ -180,7 +180,6 @@ platform.linkedin.com
 widgets.getpocket.com
 www.internetdefenseleague.org
 ecn.dev.virtualearth.net
-skydrivesync.policies.live.net
 i-am3p-cor004.api.p001.1drv.com
 e2clock.gcp.gvt2.com
 shop.mango.com
@@ -191,4 +190,3 @@ irj.evolok.net
 ws.facil-iti.com
 geomobileservices-pa.googleapis.com
 tigger-citadel.touchtype-fluency.com
-
