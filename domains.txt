@@ -141,7 +141,6 @@ cdn.connectif.cloud
 rec.smartlook.com
 v2.zopim.com
 arms-retcode.aliyuncs.com
-cdn.shopify.com
 d-34191961663746812465.ampproject.net
 amp-rendering-html-esvehatdmq-ew.a.run.app
 d-1070188560576929393.ampproject.net
