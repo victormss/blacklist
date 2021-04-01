@@ -60,8 +60,8 @@ gfwsl.geforce.com
 cdn.rudderlabs.com
 continuum.dds.microsoft.com
 self.events.data.microsoft.com
-resolver.msg.global.xiaomi.net
-fr.app.chat.global.xiaomi.net
+#resolver.msg.global.xiaomi.net
+#fr.app.chat.global.xiaomi.net
 creative-services.ceros.com
 view.ceros.com
 disney.my.sentry.io
